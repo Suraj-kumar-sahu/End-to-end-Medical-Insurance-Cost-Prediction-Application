@@ -20,7 +20,7 @@
 Clone the repository
 
 ```bash
-https://github.com/Suraj-kumar-sahu/End-to-end-mlops-project-MLFLOW
+https://github.com/Suraj-kumar-sahu/End-to-end-Medical-Insurance-Cost-Prediction-Application
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -62,7 +62,7 @@ open up you local host and port
 ### dagshub
 [dagshub](https://dagshub.com/)
 
-MLFLOW_TRACKING_URI=https://dagshub.com/Suraj-kumar-sahu/End-to-end-mlops-project-MLFLOW.mlflow \
+MLFLOW_TRACKING_URI=https://dagshub.com/Suraj-kumar-sahu/End-to-end-Medical-Insurance-Cost-Prediction-Application.mlflow\
 MLFLOW_TRACKING_USERNAME=Suraj-kumar-sahu \
 MLFLOW_TRACKING_PASSWORD=6e1db863674b4d3dd27ccb221f1a4fde70d2d378 \
 python script.py
@@ -71,7 +71,7 @@ Run this to export as env variables:
 
 ```bash
 
-export MLFLOW_TRACKING_URI=https://dagshub.com/Suraj-kumar-sahu/End-to-end-mlops-project-MLFLOW.mlflow
+export MLFLOW_TRACKING_URI=https://dagshub.com/Suraj-kumar-sahu/End-to-end-Medical-Insurance-Cost-Prediction-Application.mlflow
 
 export MLFLOW_TRACKING_USERNAME=Suraj-kumar-sahu 
 
