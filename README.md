@@ -1,4 +1,13 @@
 # End-to-end-Medical-Insurance-Cost-Prediction-Application
+- This application allows you to predict health insurance charges based on various inputs such as age, sex, BMI, number of children, smoking status, and region. Please click the button below to proceed to the input page where you can provide the necessary details.
+  
+# Snapshots
+
+![Alt text](https://github.com/Suraj-kumar-sahu/Project-Snapshots/blob/main/MIC1.png)
+
+![Alt text](https://github.com/Suraj-kumar-sahu/Project-Snapshots/blob/main/MIC2.png)
+
+![Alt text](https://github.com/Suraj-kumar-sahu/Project-Snapshots/blob/main/MIC3.png)
 
 ## Workflows
 
